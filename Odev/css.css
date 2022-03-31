@@ -1,0 +1,54 @@
+body
+{
+    background-color:rgb(218, 165, 96);
+}
+
+.baslik 
+{
+    font-size:larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(126, 10, 10);
+}
+
+.paragraf
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+
+}
+.aa
+{
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.yanyana
+{
+    color: rgb(156, 21, 21);
+}
+div
+{
+    position: absolute;
+    top: 10em;
+    left: 40em;
+    
+}
+.color
+{
+    background-color: rgb(95, 9, 9);
+    color: azure;
+}
+li
+{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer
+{
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
